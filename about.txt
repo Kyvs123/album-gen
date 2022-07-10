@@ -1,0 +1,5 @@
+pratiquei neste projeto:
+
+carregamento de página
+aleatoriedade com objetos numa array
+carrousel de opções anterior/próximo
